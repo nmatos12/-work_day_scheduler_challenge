@@ -12,6 +12,8 @@ N/A
 
 Attached is an image of the application with its functionality.
 
+[Deployed Application](https://nmatos12.github.io/work_day_scheduler/)
+
 ![Image showing functionality of a typical workday event scheduler](assets/images/Work_Day_Scheduler_Screenshot.png)
 
 ## Credits
